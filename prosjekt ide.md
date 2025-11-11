@@ -24,6 +24,12 @@ språk og teknoligier jeg tror jeg bruker er:
 * python
 * også må jeg bruke power shell i win, og terminal i linux på pi-en
 
+  måten jeg kan vise kompetanse er at:
+  * jeg kan konfiguere i nettverks instillingene og vise at jeg forstår nettverket jeg satt opp
+  * jeg kan vise og forklare hvordan jeg har brukt pi-en som en server
+  * jeg kan vise hvordan jeg har kodet nettsiden/website ov vise at jeg forstår koden ved å gjøre endringer
+  * og jeg kan vise hvordan devicene som er koblet til nettverket comuniserer med ruter 
+
 skisse:
 
 <img width="958" height="780" alt="image" src="https://github.com/user-attachments/assets/8bed6356-0ee2-4138-8bfd-62ef9140d775" />
