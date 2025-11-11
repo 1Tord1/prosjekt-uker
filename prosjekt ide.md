@@ -11,14 +11,14 @@ Switch: sette opp en switch til å koble enheter til ethernet
 Website: kjøre en nettside fra serveren som kan bli brukt av enhetene på nettverket mitt
 
 
-dette prosjektet skal handle om nettverk og utstyret jeg trenger er:
+dette prosjektet skal handle om nettverk.  utstyret jeg trenger er:
 * ruter
 * switch
-* firewall fysisk hvis dere har hvis ikke så setter jeg opp et firewall digitalt
+* firewall fysisk hvis dere har, hvis ikke så setter jeg opp et firewall digitalt
 * pi-en min
 * ethernet kabler
 
-språk og teknoligier tror jeg er:
+språk og teknoligier jeg tror jeg bruker er:
 * html
 * css
 * python
